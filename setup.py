@@ -16,6 +16,6 @@ setup(
     author_email='ryo.ozaki@em.ci.ritsumei.ac.jp',
     url='https://github.com/RyoOzaki/SparseAutoencoder',
     license=license,
-    install_requires=['numpy', 'tensorflow==1.13.1'],
+    install_requires=['numpy', 'tensorflow==2.5.0'],
     packages=['DSAE_PBHL','DSAE_PBHL.util']
 )
